@@ -4,7 +4,7 @@ setup(
     name='SimpleClicker',
     version='1.0',
     packages=['pyautogui', 'keyboard', 'pywin32'],
-    url='',
-    author='David Jeffalone',
+    url='https://github.com/Jeffalone/SimpleClicker/',
+    author='Jeffalone',
     description='Simple auto click Bot'
 )
